@@ -1,0 +1,11 @@
+h1,
+h2,
+h3 {
+  font-family: $type1-bold;
+  text-transform: capitalize;
+}
+
+p {
+  font-family: $type1-regular;
+  opacity: 0.8;
+}
